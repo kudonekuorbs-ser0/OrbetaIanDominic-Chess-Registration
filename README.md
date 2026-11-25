@@ -24,7 +24,7 @@ A modern Streamlit application designed for chess tournament organizers to easil
 2. **Set up Virtual Environment**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   venv\Scripts\activate
    ```
 
 3. **Install Dependencies**
