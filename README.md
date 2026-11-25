@@ -18,7 +18,7 @@ A modern Streamlit application designed for chess tournament organizers to easil
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/kudonekuorbs-ser0/OrbetaIanDominic-Chess-Registration.git
-   cd chess-face-registration
+   cd OrbetaIanDominic-Chess-Registration
    ```
 
 2. **Set up Virtual Environment**
